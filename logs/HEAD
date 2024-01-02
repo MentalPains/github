@@ -1,0 +1,78 @@
+0000000000000000000000000000000000000000 6f6efae56ee514588bc38348bc4c3e4cbef8f53a javier wong <javie@LAPTOP-787UEHRL.(none)> 1698126287 +0800	clone: from https://github.com/javier-dvops/resource-mgmt.git
+6f6efae56ee514588bc38348bc4c3e4cbef8f53a 1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a Javier Wong <javierwong1508@gmail.com> 1698128033 +0800	commit: Created the base Node.js project
+1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a 1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a Javier Wong <javierwong1508@gmail.com> 1698128694 +0800	checkout: moving from main to register
+1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a 50b4a31a7751c48206bb355edbb7e2ef54d3fb39 Javier Wong <javierwong1508@gmail.com> 1698129635 +0800	commit: Implemented the backend for register
+50b4a31a7751c48206bb355edbb7e2ef54d3fb39 1bdf73199d08e5bdf5e569e1ec423d41307c4240 Javier Wong <javierwong1508@gmail.com> 1698130557 +0800	commit: Implemented the frontend for register
+1bdf73199d08e5bdf5e569e1ec423d41307c4240 152715659cd9718dacb98f7189fffce96a6d3404 Javier Wong <javierwong1508@gmail.com> 1698728071 +0800	commit: Included stylesheet to set background of card-header to aliceblue, which will be used by register.html
+152715659cd9718dacb98f7189fffce96a6d3404 1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a Javier Wong <javierwong1508@gmail.com> 1698729685 +0800	checkout: moving from register to main
+1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a 152715659cd9718dacb98f7189fffce96a6d3404 Javier Wong <javierwong1508@gmail.com> 1698729704 +0800	checkout: moving from main to register
+152715659cd9718dacb98f7189fffce96a6d3404 1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a Javier Wong <javierwong1508@gmail.com> 1698729719 +0800	checkout: moving from register to main
+1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a 152715659cd9718dacb98f7189fffce96a6d3404 Javier Wong <javierwong1508@gmail.com> 1698729761 +0800	checkout: moving from main to register
+152715659cd9718dacb98f7189fffce96a6d3404 1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a Javier Wong <javierwong1508@gmail.com> 1698729768 +0800	checkout: moving from register to main
+1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a cb3c6ea9e6a271de44b8a23c786f2ce543c3bbf1 Javier Wong <javierwong1508@gmail.com> 1698729902 +0800	pull: Fast-forward
+cb3c6ea9e6a271de44b8a23c786f2ce543c3bbf1 cb3c6ea9e6a271de44b8a23c786f2ce543c3bbf1 Javier Wong <javierwong1508@gmail.com> 1698729954 +0800	checkout: moving from main to add-resource
+cb3c6ea9e6a271de44b8a23c786f2ce543c3bbf1 041958b3eb5eaef6707148da31645b45200f60ea Javier Wong <javierwong1508@gmail.com> 1698730486 +0800	commit: Implemented the backend for add-resource
+041958b3eb5eaef6707148da31645b45200f60ea 17efdbfbfcd3090c0eb98e3f7795a43a0cd37510 Javier Wong <javierwong1508@gmail.com> 1698731318 +0800	commit: Implemented the frontend for add-resource
+17efdbfbfcd3090c0eb98e3f7795a43a0cd37510 cb3c6ea9e6a271de44b8a23c786f2ce543c3bbf1 Javier Wong <javierwong1508@gmail.com> 1698738837 +0800	checkout: moving from add-resource to main
+cb3c6ea9e6a271de44b8a23c786f2ce543c3bbf1 66de4450eb362ce6864144b5986b0144fb6c5764 Javier Wong <javierwong1508@gmail.com> 1698738854 +0800	pull: Fast-forward
+66de4450eb362ce6864144b5986b0144fb6c5764 17efdbfbfcd3090c0eb98e3f7795a43a0cd37510 Javier Wong <javierwong1508@gmail.com> 1698739214 +0800	checkout: moving from main to add-resource
+17efdbfbfcd3090c0eb98e3f7795a43a0cd37510 66de4450eb362ce6864144b5986b0144fb6c5764 Javier Wong <javierwong1508@gmail.com> 1698739502 +0800	checkout: moving from add-resource to main
+66de4450eb362ce6864144b5986b0144fb6c5764 fcade6aa4dc0d1a718b16f16ac88ccae57f15c13 Javier Wong <javierwong1508@gmail.com> 1698740368 +0800	commit: Updated codes
+fcade6aa4dc0d1a718b16f16ac88ccae57f15c13 fcade6aa4dc0d1a718b16f16ac88ccae57f15c13 Javier Wong <javierwong1508@gmail.com> 1699939439 +0800	checkout: moving from main to main
+fcade6aa4dc0d1a718b16f16ac88ccae57f15c13 fcade6aa4dc0d1a718b16f16ac88ccae57f15c13 Javier Wong <javierwong1508@gmail.com> 1699939901 +0800	checkout: moving from main to test-setup
+fcade6aa4dc0d1a718b16f16ac88ccae57f15c13 d54e9509424737e9aa6f6ca3b0079f51b37db4e5 Javier Wong <javierwong1508@gmail.com> 1699940351 +0800	commit: Completed the setup of testing enviroment
+d54e9509424737e9aa6f6ca3b0079f51b37db4e5 d54e9509424737e9aa6f6ca3b0079f51b37db4e5 Javier Wong <javierwong1508@gmail.com> 1699940421 +0800	checkout: moving from test-setup to test-learning
+d54e9509424737e9aa6f6ca3b0079f51b37db4e5 0f44c306640806e6ba186c88643eda6033861b0a Javier Wong <javierwong1508@gmail.com> 1699941244 +0800	commit: Completed the learning of mocha, chai and nyc
+0f44c306640806e6ba186c88643eda6033861b0a d54e9509424737e9aa6f6ca3b0079f51b37db4e5 Javier Wong <javierwong1508@gmail.com> 1699941306 +0800	checkout: moving from test-learning to test-setup
+d54e9509424737e9aa6f6ca3b0079f51b37db4e5 d54e9509424737e9aa6f6ca3b0079f51b37db4e5 Javier Wong <javierwong1508@gmail.com> 1699941326 +0800	checkout: moving from test-setup to test-user
+d54e9509424737e9aa6f6ca3b0079f51b37db4e5 b06b2fe4a204cd570fd8e6be915e5d19f3156d40 Javier Wong <javierwong1508@gmail.com> 1699943620 +0800	commit: Completed the design of user-related test cases
+b06b2fe4a204cd570fd8e6be915e5d19f3156d40 ac4fa03231981b15357a9bd69ed7ed8f5cc7cfe9 Javier Wong <javierwong1508@gmail.com> 1699946631 +0800	commit: Updated User
+ac4fa03231981b15357a9bd69ed7ed8f5cc7cfe9 fcade6aa4dc0d1a718b16f16ac88ccae57f15c13 Javier Wong <javierwong1508@gmail.com> 1699946728 +0800	checkout: moving from test-user to main
+fcade6aa4dc0d1a718b16f16ac88ccae57f15c13 1f86006a0b4dac3c3a87a70796f610fb125947f4 Javier Wong <javierwong1508@gmail.com> 1699946742 +0800	pull: Fast-forward
+1f86006a0b4dac3c3a87a70796f610fb125947f4 ac4fa03231981b15357a9bd69ed7ed8f5cc7cfe9 Javier Wong <javierwong1508@gmail.com> 1699946775 +0800	checkout: moving from main to test-user
+ac4fa03231981b15357a9bd69ed7ed8f5cc7cfe9 78a4335a668eb110245f5abe8a0cc1c7b8000a93 Javier Wong <javierwong1508@gmail.com> 1699946916 +0800	commit: Updated Codes
+78a4335a668eb110245f5abe8a0cc1c7b8000a93 1f86006a0b4dac3c3a87a70796f610fb125947f4 Javier Wong <javierwong1508@gmail.com> 1699946936 +0800	checkout: moving from test-user to main
+1f86006a0b4dac3c3a87a70796f610fb125947f4 5653b11209621eab39b35462c8f0e51d37d3695b Javier Wong <javierwong1508@gmail.com> 1699947061 +0800	commit: updated codes again
+5653b11209621eab39b35462c8f0e51d37d3695b 78a4335a668eb110245f5abe8a0cc1c7b8000a93 Javier Wong <javierwong1508@gmail.com> 1699947235 +0800	checkout: moving from main to test-user
+78a4335a668eb110245f5abe8a0cc1c7b8000a93 4452b73000b08e1753ae948f667837171027870e Javier Wong <javierwong1508@gmail.com> 1699947312 +0800	commit: updated codes again
+4452b73000b08e1753ae948f667837171027870e fcc031f595a37debcf5e61b60216e808ddd6b8b4 Javier Wong <javierwong1508@gmail.com> 1699947549 +0800	commit: Updated codes v3
+fcc031f595a37debcf5e61b60216e808ddd6b8b4 f4795dc353e636eeaf29a12113cb03551afc4367 Javier Wong <javierwong1508@gmail.com> 1699947909 +0800	commit: Updated codes v4
+f4795dc353e636eeaf29a12113cb03551afc4367 5653b11209621eab39b35462c8f0e51d37d3695b Javier Wong <javierwong1508@gmail.com> 1699948018 +0800	checkout: moving from test-user to main
+5653b11209621eab39b35462c8f0e51d37d3695b b0d3afceaa058bcf81db458ab5d03a7190864e33 Javier Wong <javierwong1508@gmail.com> 1699948022 +0800	pull: Fast-forward
+b0d3afceaa058bcf81db458ab5d03a7190864e33 f4795dc353e636eeaf29a12113cb03551afc4367 Javier Wong <javierwong1508@gmail.com> 1699948033 +0800	checkout: moving from main to test-user
+f4795dc353e636eeaf29a12113cb03551afc4367 b0d3afceaa058bcf81db458ab5d03a7190864e33 Javier Wong <javierwong1508@gmail.com> 1699948520 +0800	checkout: moving from test-user to main
+b0d3afceaa058bcf81db458ab5d03a7190864e33 6ef43b11bd907878b6001c907eb855b3070d6ab8 Javier Wong <javierwong1508@gmail.com> 1699948893 +0800	pull: Fast-forward
+6ef43b11bd907878b6001c907eb855b3070d6ab8 6ef43b11bd907878b6001c907eb855b3070d6ab8 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701750874 +0800	checkout: moving from main to main
+6ef43b11bd907878b6001c907eb855b3070d6ab8 6ef43b11bd907878b6001c907eb855b3070d6ab8 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701750954 +0800	checkout: moving from main to create-container
+6ef43b11bd907878b6001c907eb855b3070d6ab8 f6247bb7eb651739ec09a342b424fe2bfed48394 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701751863 +0800	commit: Test
+f6247bb7eb651739ec09a342b424fe2bfed48394 4cb7dd2b498ce1c447e41722465d83023c9bf2b4 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701752207 +0800	commit: Test 2
+4cb7dd2b498ce1c447e41722465d83023c9bf2b4 6ef43b11bd907878b6001c907eb855b3070d6ab8 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701752972 +0800	checkout: moving from create-container to main
+6ef43b11bd907878b6001c907eb855b3070d6ab8 0f44c306640806e6ba186c88643eda6033861b0a javierwong1508@gmail.com <javierwong1508@gmail.com> 1701753351 +0800	checkout: moving from main to test-learning
+0f44c306640806e6ba186c88643eda6033861b0a 6ef43b11bd907878b6001c907eb855b3070d6ab8 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701753415 +0800	checkout: moving from test-learning to main
+6ef43b11bd907878b6001c907eb855b3070d6ab8 6ef43b11bd907878b6001c907eb855b3070d6ab8 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701753589 +0800	checkout: moving from main to test-resource
+6ef43b11bd907878b6001c907eb855b3070d6ab8 89fe74220ec229db9f557d2d44030fb5397defd9 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701753750 +0800	commit: Completed the design of resource-related test cases
+89fe74220ec229db9f557d2d44030fb5397defd9 6ef43b11bd907878b6001c907eb855b3070d6ab8 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701754655 +0800	checkout: moving from test-resource to main
+6ef43b11bd907878b6001c907eb855b3070d6ab8 86dc7cf31c70aca6948d9376c6692797466f2b07 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701754664 +0800	pull: Fast-forward
+86dc7cf31c70aca6948d9376c6692797466f2b07 86dc7cf31c70aca6948d9376c6692797466f2b07 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701754680 +0800	checkout: moving from main to test-routes
+86dc7cf31c70aca6948d9376c6692797466f2b07 8d24e62ac989778017b521a9b956080b21f2790f javierwong1508@gmail.com <javierwong1508@gmail.com> 1701755098 +0800	commit: Completed the design of API route-related test cases
+8d24e62ac989778017b521a9b956080b21f2790f 86dc7cf31c70aca6948d9376c6692797466f2b07 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701755406 +0800	checkout: moving from test-routes to main
+86dc7cf31c70aca6948d9376c6692797466f2b07 3e9925750a2965ed6abf798d0587b3a317f1b685 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701755412 +0800	pull: Fast-forward
+3e9925750a2965ed6abf798d0587b3a317f1b685 3e9925750a2965ed6abf798d0587b3a317f1b685 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701755441 +0800	checkout: moving from main to modify-resources
+3e9925750a2965ed6abf798d0587b3a317f1b685 977ae549e4ee77442a3f21023d4c7bc23f429422 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701755833 +0800	commit: Implemented the backend for modify-resources
+977ae549e4ee77442a3f21023d4c7bc23f429422 9d1059a4515869a12f334752a0d59fe481c12bf1 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701755968 +0800	commit: Implemented the frontend for modify-resource
+9d1059a4515869a12f334752a0d59fe481c12bf1 3e9925750a2965ed6abf798d0587b3a317f1b685 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756142 +0800	checkout: moving from modify-resources to main
+3e9925750a2965ed6abf798d0587b3a317f1b685 ab6a08dd29f336a9ffadf869db558a6cb5493334 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756148 +0800	pull: Fast-forward
+ab6a08dd29f336a9ffadf869db558a6cb5493334 ab6a08dd29f336a9ffadf869db558a6cb5493334 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756165 +0800	checkout: moving from main to test-resources
+ab6a08dd29f336a9ffadf869db558a6cb5493334 7419486ba9114ddffdfb803d1da88e9b20e218e3 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756365 +0800	commit: Completed the design of API route-related test cases for resources
+7419486ba9114ddffdfb803d1da88e9b20e218e3 ab6a08dd29f336a9ffadf869db558a6cb5493334 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756620 +0800	checkout: moving from test-resources to main
+ab6a08dd29f336a9ffadf869db558a6cb5493334 4cb7dd2b498ce1c447e41722465d83023c9bf2b4 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756645 +0800	checkout: moving from main to create-container
+4cb7dd2b498ce1c447e41722465d83023c9bf2b4 ab6a08dd29f336a9ffadf869db558a6cb5493334 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756766 +0800	checkout: moving from create-container to main
+ab6a08dd29f336a9ffadf869db558a6cb5493334 d6f244eca303bacf4daebd73a802238373f57fb7 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756783 +0800	pull: Fast-forward
+d6f244eca303bacf4daebd73a802238373f57fb7 d6f244eca303bacf4daebd73a802238373f57fb7 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756854 +0800	checkout: moving from main to create-container
+d6f244eca303bacf4daebd73a802238373f57fb7 ef8db3c3a47187ee86584c3d6973c51d3f6356cc javierwong1508@gmail.com <javierwong1508@gmail.com> 1701759848 +0800	commit: Completed the containerization of app
+ef8db3c3a47187ee86584c3d6973c51d3f6356cc d6f244eca303bacf4daebd73a802238373f57fb7 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701760558 +0800	checkout: moving from create-container to main
+d6f244eca303bacf4daebd73a802238373f57fb7 0f913981b4298d11967df8c22bbc76eddac14788 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701760563 +0800	pull: Fast-forward
+0f913981b4298d11967df8c22bbc76eddac14788 853263f689fa170861701161062075d91467c84c javierwong1508@gmail.com <javierwong1508@gmail.com> 1701761328 +0800	commit: Try again
+853263f689fa170861701161062075d91467c84c 853263f689fa170861701161062075d91467c84c javierwong1508@gmail.com <javierwong1508@gmail.com> 1704168144 +0800	checkout: moving from main to main
+853263f689fa170861701161062075d91467c84c 16aa345232fefc630abd90eae2a8c46676d60c71 javierwong1508@gmail.com <javierwong1508@gmail.com> 1704168832 +0800	commit: Minor change to index.html - Changed header to login form
+                                                                                                                                                                                                                                                                                                                                                                                              

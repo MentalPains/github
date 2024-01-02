@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 6f6efae56ee514588bc38348bc4c3e4cbef8f53a javier wong <javie@LAPTOP-787UEHRL.(none)> 1698126287 +0800	clone: from https://github.com/javier-dvops/resource-mgmt.git
+6f6efae56ee514588bc38348bc4c3e4cbef8f53a 1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a Javier Wong <javierwong1508@gmail.com> 1698128033 +0800	commit: Created the base Node.js project
+1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a cb3c6ea9e6a271de44b8a23c786f2ce543c3bbf1 Javier Wong <javierwong1508@gmail.com> 1698729902 +0800	pull: Fast-forward
+cb3c6ea9e6a271de44b8a23c786f2ce543c3bbf1 66de4450eb362ce6864144b5986b0144fb6c5764 Javier Wong <javierwong1508@gmail.com> 1698738854 +0800	pull: Fast-forward
+66de4450eb362ce6864144b5986b0144fb6c5764 fcade6aa4dc0d1a718b16f16ac88ccae57f15c13 Javier Wong <javierwong1508@gmail.com> 1698740368 +0800	commit: Updated codes
+fcade6aa4dc0d1a718b16f16ac88ccae57f15c13 1f86006a0b4dac3c3a87a70796f610fb125947f4 Javier Wong <javierwong1508@gmail.com> 1699946742 +0800	pull: Fast-forward
+1f86006a0b4dac3c3a87a70796f610fb125947f4 5653b11209621eab39b35462c8f0e51d37d3695b Javier Wong <javierwong1508@gmail.com> 1699947061 +0800	commit: updated codes again
+5653b11209621eab39b35462c8f0e51d37d3695b b0d3afceaa058bcf81db458ab5d03a7190864e33 Javier Wong <javierwong1508@gmail.com> 1699948022 +0800	pull: Fast-forward
+b0d3afceaa058bcf81db458ab5d03a7190864e33 6ef43b11bd907878b6001c907eb855b3070d6ab8 Javier Wong <javierwong1508@gmail.com> 1699948893 +0800	pull: Fast-forward
+6ef43b11bd907878b6001c907eb855b3070d6ab8 86dc7cf31c70aca6948d9376c6692797466f2b07 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701754664 +0800	pull: Fast-forward
+86dc7cf31c70aca6948d9376c6692797466f2b07 3e9925750a2965ed6abf798d0587b3a317f1b685 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701755412 +0800	pull: Fast-forward
+3e9925750a2965ed6abf798d0587b3a317f1b685 ab6a08dd29f336a9ffadf869db558a6cb5493334 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756148 +0800	pull: Fast-forward
+ab6a08dd29f336a9ffadf869db558a6cb5493334 d6f244eca303bacf4daebd73a802238373f57fb7 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701756783 +0800	pull: Fast-forward
+d6f244eca303bacf4daebd73a802238373f57fb7 0f913981b4298d11967df8c22bbc76eddac14788 javierwong1508@gmail.com <javierwong1508@gmail.com> 1701760563 +0800	pull: Fast-forward
+0f913981b4298d11967df8c22bbc76eddac14788 853263f689fa170861701161062075d91467c84c javierwong1508@gmail.com <javierwong1508@gmail.com> 1701761328 +0800	commit: Try again
+853263f689fa170861701161062075d91467c84c 16aa345232fefc630abd90eae2a8c46676d60c71 javierwong1508@gmail.com <javierwong1508@gmail.com> 1704168832 +0800	commit: Minor change to index.html - Changed header to login form

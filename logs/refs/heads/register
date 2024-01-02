@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a Javier Wong <javierwong1508@gmail.com> 1698128687 +0800	branch: Created from main
+1b7c385a2ea7a905f340d356cbe4b7f5ee9f278a 50b4a31a7751c48206bb355edbb7e2ef54d3fb39 Javier Wong <javierwong1508@gmail.com> 1698129635 +0800	commit: Implemented the backend for register
+50b4a31a7751c48206bb355edbb7e2ef54d3fb39 1bdf73199d08e5bdf5e569e1ec423d41307c4240 Javier Wong <javierwong1508@gmail.com> 1698130557 +0800	commit: Implemented the frontend for register
+1bdf73199d08e5bdf5e569e1ec423d41307c4240 152715659cd9718dacb98f7189fffce96a6d3404 Javier Wong <javierwong1508@gmail.com> 1698728071 +0800	commit: Included stylesheet to set background of card-header to aliceblue, which will be used by register.html
